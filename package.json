@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "joi": "^17.7.0"
+  },
+  "devDependencies": {
+    "@types/joi": "^17.2.3"
+  }
+}
